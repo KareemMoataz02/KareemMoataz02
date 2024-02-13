@@ -7,7 +7,7 @@ Currently Learning Devops and Cloud 📝
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kareem.naiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-moataz-19975b253/) 
 
 # 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23E34F26.svg?style=for-the-badge&logo=AWS&logoColor=white) 
+![AMAZON](https://img.shields.io/badge/AMAZON-%23E34F26.svg?style=for-the-badge&logo=AMAZON&logoColor=white) 
 ![ORACLE](https://img.shields.io/badge/ORACLE-%23E34F26.svg?style=for-the-badge&logo=ORACLE&logoColor=white) 
 ![DOCKER](https://img.shields.io/badge/DOCKER-%23E34F26.svg?style=for-the-badge&logo=DOCKER&logoColor=white) 
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-%23E34F26.svg?style=for-the-badge&logo=KUBERNETES&logoColor=white) 
