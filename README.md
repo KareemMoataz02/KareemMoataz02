@@ -7,10 +7,11 @@ Currently Learning Devops and Cloud 📝
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kareem.naiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-moataz-19975b253/) 
 
 # 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=AWS&logoColor=white) 
-![ORACLE](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=ORACLE&logoColor=white) 
-![DOCKER](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=DOCKER&logoColor=white) 
-![KUBERNETES](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=KUBERNETES&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23E34F26.svg?style=for-the-badge&logo=AWS&logoColor=white) 
+![ORACLE](https://img.shields.io/badge/ORACLE-%23E34F26.svg?style=for-the-badge&logo=ORACLE&logoColor=white) 
+![DOCKER](https://img.shields.io/badge/DOCKER-%23E34F26.svg?style=for-the-badge&logo=DOCKER&logoColor=white) 
+![KUBERNETES](https://img.shields.io/badge/KUBERNETES-%23E34F26.svg?style=for-the-badge&logo=KUBERNETES&logoColor=white) 
+![JENKINS](https://img.shields.io/badge/JENKINS-%23E34F26.svg?style=for-the-badge&logo=JENKINS&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
