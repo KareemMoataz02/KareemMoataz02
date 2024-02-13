@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me:
 💻Computer Engineering and Software Systems Student<br>🎓Ain Shams University / University of East London<br>
-Currently Learning Devops and Cloud 📝
+📝Currently Learning Devops and Cloud 
 
 
 ## 🌐 Socials:
