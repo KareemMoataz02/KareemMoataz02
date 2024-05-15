@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kareem.naiem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-moataz-19975b253/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-moataz-19975b253/) 
 
 # 💻 Tech Stack:
 ![AMAZON](https://img.shields.io/badge/AMAZON-%23232F3E.svg?style=for-the-badge&logo=AMAZON&logoColor=white) 
