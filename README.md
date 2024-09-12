@@ -11,7 +11,7 @@
 ![ORACLE](https://img.shields.io/badge/ORACLE-%23F80000.svg?style=for-the-badge&logo=ORACLE&logoColor=white) 
 ![DOCKER](https://img.shields.io/badge/DOCKER-%232496ED.svg?style=for-the-badge&logo=DOCKER&logoColor=white) 
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-%23326CE5.svg?style=for-the-badge&logo=KUBERNETES&logoColor=white) 
-![GithubActions](https://img.shields.io/badge/GITHUBACTIONS-%232C5263.svg?style=for-the-badge&logo=GITHUBACTIONS&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
